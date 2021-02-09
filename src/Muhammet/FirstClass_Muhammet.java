@@ -2,7 +2,7 @@ package Muhammet;
 
 public class FirstClass_Muhammet {
     public static void main(String[] args) {
-        System.out.println("1234");
+        System.out.println("123467");
     }
 
 }
